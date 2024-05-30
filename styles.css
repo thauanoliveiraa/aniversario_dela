@@ -94,8 +94,8 @@ button:hover {
 .heart::after {
     content: '';
     position: absolute;
-    width: 350px;
-    height: 350px;
+    width: 150px;
+    height: 150px;
     background-color: rgb(255, 0, 149);
     border-radius: 50%;
 }
